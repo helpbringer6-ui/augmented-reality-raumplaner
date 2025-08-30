@@ -1,0 +1,7 @@
+{
+    "moebel": [
+        {"name": "Sofa", "size": "2x1x1"},
+        {"name": "Tisch", "size": "1.5x1x0.75"},
+        {"name": "Stuhl", "size": "0.5x0.5x1"}
+    ]
+}
